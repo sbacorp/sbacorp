@@ -23,3 +23,8 @@ Web/mobile developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sbacorp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sbacorp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sbacorp&label=Profile%20Views&color=6&icon=2&pretty=false" />
+</a>
